@@ -47,6 +47,11 @@ elif programmer['fish'] > 0 and programmer['fish'] < 30:
 
 print(programmer['name'], "knows", len(['languages']), "languages")
 
+
+#TESt to see if this is updating 
+
+
+
 # 6. Use a loop to print each language the programmer knows
 
 for language in languages:
